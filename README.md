@@ -169,7 +169,7 @@ const shreya: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://sshukla-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065)](mailto:sshukla@example.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065)](mailto:shreyashukla11c@gmail.com)
 
 </div>
 
