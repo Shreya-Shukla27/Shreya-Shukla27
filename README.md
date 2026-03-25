@@ -48,8 +48,8 @@ const shreya: Developer = {
   currentWork : "PwC India Trainee",
   cgpa        : "9.17 / 10 🌟",
   focus       : ["Medical-Grade Deep Learning", "GenAI Pipelines", "Data Science"],
-  seeking     : "Full-time AI/ML Engineer roles 🎯",
-  funFact     : "I turn raw data into decisions that actually matter 💜",
+  seeking     : "Full-time AI/ML Engineer roles , Data Scientist Roles🎯",
+  funFact     : "I turn poetry into code and data into meaning 💜",
 };
 ```
 
