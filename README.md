@@ -16,14 +16,14 @@
 <div align="center">
 
 <!-- Animated typing line -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.17+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.17+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shreya-Shukla27)
 
 <br/>
 
 <!-- Status pill -->
 ![](https://img.shields.io/badge/status-Open%20to%20Opportunities-a855f7?style=flat-square&labelColor=1a0533&logo=circle&logoColor=a3e635)
 &nbsp;
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=ec4899&label=profile+views)
+![](https://komarev.com/ghpvc/?username=Shreya-Shukla27&style=flat-square&color=ec4899&label=profile+views)
 
 <br/>
 
@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://sshukla-portfolio.netlify.app)
 [![Resume](https://img.shields.io/badge/Resume-Download-9333ea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2e1065)](https://sshukla-portfolio.netlify.app/Shreya_Shukla_Resume.pdf)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=500724)](mailto:sshukla@example.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=500724)](mailto:shreyashukla11c@gmail.com)
 
 </div>
 
@@ -56,7 +56,7 @@ const shreya: Developer = {
 
 | | |
 |:---|:---|
-| 🔬 **Working on** | Production GenAI pipelines & intelligent systems |
+| 🔬 **Working on** | Deep Learning Models, Gen AI, Agentic AI |
 | 🧠 **Interests** | Deep Learning · Computer Vision · NLP · Data Science |
 | 🏢 **Experience** | PwC India Trainee |
 | 🎓 **Education** | Manipal University Jaipur |
@@ -125,9 +125,9 @@ const shreya: Developer = {
 
 | 🔮 Project | 💡 What It Does | 🏷 Stack |
 |:---|:---|:---|
-| **[Medical Deep Learning System](https://sshukla-portfolio.netlify.app/#projects)** | Medical-grade deep learning for diagnostics — production-ready AI pipeline | `PyTorch` `TensorFlow` `OpenCV` |
+| **[Medical Deep Learning Project](https://sshukla-portfolio.netlify.app/#projects)** | Medical-grade deep learning for diagnostics — production-ready AI pipeline | `PyTorch` `TensorFlow` `OpenCV` |
 | **[GenAI Production Pipeline](https://sshukla-portfolio.netlify.app/#projects)** | End-to-end generative AI pipelines with LLM integration and RAG architecture | `LangChain` `OpenAI` `FastAPI` |
-| **[Data Science Dashboard](https://sshukla-portfolio.netlify.app/#projects)** | Interactive analytics platform with predictive modelling and real-time insights | `Python` `Streamlit` `Pandas` |
+| **[COVID 19 Dashboard](https://sshukla-portfolio.netlify.app/#projects)** | Interactive analytics platform with predictive modelling and real-time insights | `Python` `Streamlit` `Pandas` |
 | **[Computer Vision Project](https://sshukla-portfolio.netlify.app/#projects)** | Vision-based intelligent system for real-world classification & detection tasks | `PyTorch` `OpenCV` `Flask` |
 
 > 🔗 See all projects at [sshukla-portfolio.netlify.app](https://sshukla-portfolio.netlify.app/#projects)
