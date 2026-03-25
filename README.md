@@ -159,24 +159,6 @@ const shreya: Developer = {
 
 ---
 
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d001a&title_color=c084fc&icon_color=e879f9&text_color=f0abfc&ring_color=9333ea&count_private=true)
-&nbsp;
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0d001a&ring=9333ea&fire=ec4899&currStreakLabel=c084fc&sideLabels=c084fc&dates=f0abfc&currStreakNum=f0abfc&sideNums=f0abfc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d001a&title_color=c084fc&text_color=f0abfc&langs_count=8)
-
-</div>
-
----
-
-## 📈 &nbsp; Contribution Graph
-
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d001a&color=c084fc&line=9333ea&point=ec4899)](https://github.com/YOUR_GITHUB_USERNAME)
-
 ---
 
 ## 🌸 &nbsp; Let's Build Something Intelligent Together
