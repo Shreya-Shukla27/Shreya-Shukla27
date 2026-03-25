@@ -174,7 +174,7 @@ const shreya: Developer = {
 ---
 
 <!-- FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=140&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=80&section=footer)
 
 <div align="center">
   <sub>crafted with 💜 by <a href="https://sshukla-portfolio.netlify.app">Shreya Shukla</a> &nbsp;·&nbsp; <i>"Building intelligent systems that actually work."</i></sub>
