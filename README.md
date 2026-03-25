@@ -10,7 +10,7 @@
      ============================================================ -->
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:9333ea,100:ec4899&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20|%20Data%20Scientist&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Shreya%20Shukla)
 
 <div align="center">
 
