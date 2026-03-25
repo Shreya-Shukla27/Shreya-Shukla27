@@ -11,7 +11,7 @@
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8c0de0,100:0d1117&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=egg&color=0:0d0015,50:9333ea,100:ec4899&height=240&section=header&text=Shreya%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9C%A6%20AI%20%26%20ML%20Engineer%20%E2%9C%A6%20Data%20Scientist%20%E2%9C%A6%20PwC%20India%20Trainee%20%E2%9C%A6&descAlignY=62&descSize=16&descColor=f0abfc)
 
 <div align="center">
 
