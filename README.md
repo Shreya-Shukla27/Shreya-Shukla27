@@ -159,8 +159,6 @@ const shreya: Developer = {
 
 ---
 
----
-
 ## 🌸 &nbsp; Let's Build Something Intelligent Together
 
 <div align="center">
