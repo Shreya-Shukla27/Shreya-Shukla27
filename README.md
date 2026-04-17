@@ -26,6 +26,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%">
+</div>
+
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://sshukla-portfolio.netlify.app)
@@ -34,9 +38,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%">
-</div>
+
 
 ---
 
