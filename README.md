@@ -17,8 +17,12 @@
 <!-- Animated typing line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.17+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shreya-Shukla27)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="65%">
+</div> -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%">
 </div>
 
 <br/>
