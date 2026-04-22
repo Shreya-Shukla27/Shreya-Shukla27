@@ -6,7 +6,6 @@
      2. Name it exactly your GitHub username  e.g. "sshukla" → repo = "sshukla"
      3. Make it Public → initialize with README
      4. Paste this entire file as the README content
-     5. Update any links marked with YOUR_GITHUB_USERNAME
      ============================================================ -->
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
@@ -16,10 +15,6 @@
 
 <!-- Animated typing line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.17+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shreya-Shukla27)
-
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="65%">
-</div> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="70%">
@@ -34,12 +29,10 @@
 
 <br/>
 
-
-
 <!-- Social links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://sshukla-portfolio.netlify.app)
-[![Resume](https://img.shields.io/badge/Resume-Download-9333ea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2e1065)](https://sshukla-portfolio.netlify.app/Shreya_Shukla_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-9333ea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2e1065)](https://drive.google.com/file/d/1seiMEFZWpAdwWSTU2oe5-_r0NMC1jjVc/view?usp=drivesdk)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=500724)](mailto:shreyashukla11c@gmail.com)
 
 </div>
@@ -71,7 +64,7 @@ const shreya: Developer = {
 | 🧠 **Interests** | Deep Learning · Computer Vision · NLP · Data Science |
 | 🏢 **Experience** | PwC India Trainee |
 | 🎓 **Education** | Manipal University Jaipur |
-| 📬 **Reach me** | [sshukla-portfolio.netlify.app](https://sshukla-portfolio.netlify.app) |
+| 📬 **Reach me** | [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/) |
 
 ---
 
@@ -136,12 +129,12 @@ const shreya: Developer = {
 
 | 🔮 Project | 💡 What It Does | 🏷 Stack |
 |:---|:---|:---|
-| **[Medical Deep Learning Project](https://sshukla-portfolio.netlify.app/#projects)** | Medical-grade deep learning for diagnostics — production-ready AI pipeline | `PyTorch` `TensorFlow` `OpenCV` |
-| **[GenAI Production Pipeline](https://sshukla-portfolio.netlify.app/#projects)** | End-to-end generative AI pipelines with LLM integration and RAG architecture | `LangChain` `OpenAI` `FastAPI` |
-| **[COVID 19 Dashboard](https://sshukla-portfolio.netlify.app/#projects)** | Interactive analytics platform with predictive modelling and real-time insights | `Python` `Streamlit` `Pandas` |
-| **[Computer Vision Project](https://sshukla-portfolio.netlify.app/#projects)** | Vision-based intelligent system for real-world classification & detection tasks | `PyTorch` `OpenCV` `Flask` |
+| **[Medical Deep Learning Project](https://shreya-shuk.vercel.app/#projects)** | Medical-grade deep learning for diagnostics — production-ready AI pipeline | `PyTorch` `TensorFlow` `OpenCV` |
+| **[GenAI Production Pipeline](https://shreya-shuk.vercel.app/#projects)** | End-to-end generative AI pipelines with LLM integration and RAG architecture | `LangChain` `OpenAI` `FastAPI` |
+| **[COVID 19 Dashboard](https://shreya-shuk.vercel.app/#projects)** | Interactive analytics platform with predictive modelling and real-time insights | `Python` `Streamlit` `Pandas` |
+| **[Computer Vision Project](https://shreya-shuk.vercel.app/#projects)** | Vision-based intelligent system for real-world classification & detection tasks | `PyTorch` `OpenCV` `Flask` |
 
-> 🔗 See all projects at [sshukla-portfolio.netlify.app](https://sshukla-portfolio.netlify.app/#projects)
+> 🔗 See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#projects)
 
 ---
 
@@ -161,7 +154,7 @@ const shreya: Developer = {
 
 ## 📚 &nbsp; Research & Publications
 
-> Explore my research work at [sshukla-portfolio.netlify.app/#publications](https://sshukla-portfolio.netlify.app/#publications)
+> Explore my research work at [shreya-shuk.vercel.app/#publications](https://shreya-shuk.vercel.app/#publications)
 
 ![](https://img.shields.io/badge/Focus-Medical%20AI-a855f7?style=flat-square&labelColor=2e1065)&ensp;
 ![](https://img.shields.io/badge/Focus-Deep%20Learning-db2777?style=flat-square&labelColor=500724)&ensp;
@@ -176,8 +169,8 @@ const shreya: Developer = {
 
 *Open to AI/ML roles, research collaborations, and GenAI projects.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://sshukla-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065)](mailto:shreyashukla11c@gmail.com)
 
 </div>
@@ -188,5 +181,5 @@ const shreya: Developer = {
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=80&section=footer)
 
 <div align="center">
-  <sub>crafted with 💜 by <a href="https://sshukla-portfolio.netlify.app">Shreya Shukla</a> &nbsp;·&nbsp; <i>"Building intelligent systems that actually work."</i></sub>
+  <sub>crafted with 💜 by <a href="https://shreya-shuk.vercel.app/">Shreya Shukla</a> &nbsp;·&nbsp; <i>"Building intelligent systems that actually work."</i></sub>
 </div>
