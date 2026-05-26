@@ -9,20 +9,29 @@
      ============================================================ -->
 
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ec4899,100:9333ea&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20)
 
 <div align="center">
 
 <!-- Animated typing line -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.17+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shreya-Shukla27)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="70%">
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" style="filter: drop-shadow(0 0 10px #00ffff);" />
+  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" 
+       style="position: relative; filter: drop-shadow(0 0 12px cyan);" />
+</p>
+
 <br/>
 
 <!-- Status pill -->
+
 ![](https://img.shields.io/badge/status-Open%20to%20Opportunities-a855f7?style=flat-square&labelColor=1a0533&logo=circle&logoColor=a3e635)
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=Shreya-Shukla27&style=flat-square&color=ec4899&label=profile+views)
@@ -30,6 +39,7 @@
 <br/>
 
 <!-- Social links -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-Download-9333ea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=2e1065)](https://drive.google.com/file/d/1seiMEFZWpAdwWSTU2oe5-_r0NMC1jjVc/view?usp=drivesdk)
@@ -37,34 +47,33 @@
 
 </div>
 
-
-
 ---
 
 ## 🌸 &nbsp; About Me
 
-> *"Building intelligent systems at the intersection of deep learning and real-world impact."*
+> _"Building intelligent systems at the intersection of deep learning and real-world impact."_
 
 ```typescript
 const shreya: Developer = {
-  name        : "Shreya Shukla",
-  location    : "Manipal University Jaipur, India 📍",
-  role        : "AI/ML Engineer, Full Stack Developer, Data Scientist",
-  currentWork : "PwC India Trainee",
-  cgpa        : "9.25 / 10 🌟",
-  focus       : ["Medical-Grade Deep Learning", "GenAI Pipelines", "Data Science"],
-  seeking     : "Full-time AI/ML Engineer roles , Full Stack Developer roles , Data Scientist Roles🎯",
-  funFact     : "I turn poetry into code and data into meaning 💜",
+  name: "Shreya Shukla",
+  location: "Manipal University Jaipur, India 📍",
+  role: "AI/ML Engineer, Full Stack Developer, Data Scientist",
+  currentWork: "PwC India Trainee",
+  cgpa: "9.25 / 10 🌟",
+  focus: ["Medical-Grade Deep Learning", "GenAI Pipelines", "Data Science"],
+  seeking:
+    "Full-time AI/ML Engineer roles , Full Stack Developer roles , Data Scientist Roles🎯",
+  funFact: "I turn poetry into code and data into meaning 💜",
 };
 ```
 
-| | |
-|:---|:---|
-| 🔬 **Working on** | Deep Learning Models, Gen AI, Agentic AI |
-| 🧠 **Interests** | Deep Learning · Computer Vision · NLP · Data Science |
-| 🏢 **Experience** | PwC India Trainee |
-| 🎓 **Education** | Manipal University Jaipur |
-| 📬 **Reach me** | [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/) |
+|                   |                                                           |
+| :---------------- | :-------------------------------------------------------- |
+| 🔬 **Working on** | Deep Learning Models, Gen AI, Agentic AI                  |
+| 🧠 **Interests**  | Deep Learning · Computer Vision · NLP · Data Science      |
+| 🏢 **Experience** | PwC India Trainee                                         |
+| 🎓 **Education**  | Manipal University Jaipur                                 |
+| 📬 **Reach me**   | [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/) |
 
 ---
 
@@ -127,12 +136,65 @@ const shreya: Developer = {
 
 ## ✨ &nbsp; Featured Projects
 
-| 🔮 Project | 💡 What It Does | 🏷 Stack |
-|:---|:---|:---|
-| **[Medical Deep Learning Project](https://shreya-shuk.vercel.app/#projects)** | Medical-grade deep learning for diagnostics — production-ready AI pipeline | `PyTorch` `TensorFlow` `OpenCV` |
-| **[GenAI Production Pipeline](https://shreya-shuk.vercel.app/#projects)** | End-to-end generative AI pipelines with LLM integration and RAG architecture | `LangChain` `OpenAI` `FastAPI` |
-| **[COVID 19 Dashboard](https://shreya-shuk.vercel.app/#projects)** | Interactive analytics platform with predictive modelling and real-time insights | `Python` `Streamlit` `Pandas` |
-| **[Computer Vision Project](https://shreya-shuk.vercel.app/#projects)** | Vision-based intelligent system for real-world classification & detection tasks | `PyTorch` `OpenCV` `Flask` |
+<div style="display:grid;grid-template-columns:repeat(2, minmax(0,1fr));gap:18px;align-items:start">
+
+<!-- Parkinson's Disease Prediction -->
+<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
+  <small style="color:#8b5cf6;letter-spacing:1px">2025 &nbsp;&nbsp; PROJECT</small>
+  <h3 style="margin:8px 0 6px 0">Parkinson's Disease Prediction</h3>
+  <p style="color:#c9d1d9;margin:6px 0">Ensemble machine learning pipeline for Parkinson's prediction with robust validation and explainable features.</p>
+  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">95%+<br><small style="color:#9ca3af">ACCURACY</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Cross-<br><small style="color:#9ca3af">Validation</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Optimized<br><small style="color:#9ca3af">Tuning</small></span>
+  </div>
+  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>scikit-learn</code> <code>pandas</code> <code>numpy</code> <code>matplotlib</code> <code>seaborn</code></small></p>
+  <p style="margin:0"><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+</div>
+
+<!-- Pastel Diary — Soft Personal Diary -->
+<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
+  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
+  <h3 style="margin:8px 0 6px 0">Pastel Diary — Soft Personal Diary</h3>
+  <p style="color:#c9d1d9;margin:6px 0">A soft, dreamy personal diary with cloud storage, mood tracking, themes, PIN lock, and responsive mobile-first UI.</p>
+  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">5<br><small style="color:#9ca3af">THEMES</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Cloud<br><small style="color:#9ca3af">STORAGE</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Mood<br><small style="color:#9ca3af">GRAPH</small></span>
+  </div>
+  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>React</code> <code>Express</code> <code>MongoDB</code> <code>Vercel</code></small></p>
+  <p style="margin:0"><a href="https://pastel-diary-roan.vercel.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=vercel&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+</div>
+
+<!-- COVID-19 Data Analysis Dashboard -->
+<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
+  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
+  <h3 style="margin:8px 0 6px 0">COVID-19 Data Analysis Dashboard</h3>
+  <p style="color:#c9d1d9;margin:6px 0">Interactive analytics dashboard covering pandemic trends, maps, and heatmaps with deployment-ready Streamlit UX.</p>
+  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">187<br><small style="color:#9ca3af">COUNTRIES</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">8+<br><small style="color:#9ca3af">VISUALIZATIONS</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Live<br><small style="color:#9ca3af">STREAMLIT</small></span>
+  </div>
+  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>Python</code> <code>Pandas</code> <code>Plotly</code> <code>Streamlit</code></small></p>
+  <p style="margin:0"><a href="https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=streamlit&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+</div>
+
+<!-- LensAI — AI Image Caption Generator -->
+<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
+  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
+  <h3 style="margin:8px 0 6px 0">LensAI — AI Image Caption Generator</h3>
+  <p style="color:#c9d1d9;margin:6px 0">Full-stack AI caption generator using BLIP with secure APIs, media storage, user history, and social-ready output modes.</p>
+  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">5<br><small style="color:#9ca3af">CAPTION MODES</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">JWT<br><small style="color:#9ca3af">AUTH</small></span>
+    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">MongoDB<br><small style="color:#9ca3af">HISTORY</small></span>
+  </div>
+  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code> <code>Hugging Face</code></small></p>
+  <p style="margin:0"><a href="https://lensai-image-caption-generator.vercel.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=vercel&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/lensai-image-caption-generator" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+</div>
+
+</div>
 
 > 🔗 See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#projects)
 
@@ -167,7 +229,7 @@ const shreya: Developer = {
 
 <div align="center">
 
-*Open to AI/ML roles, research collaborations, and GenAI projects.*
+_Open to AI/ML roles, research collaborations, and GenAI projects._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
@@ -178,6 +240,7 @@ const shreya: Developer = {
 ---
 
 <!-- FOOTER -->
+
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=80&section=footer)
 
 <div align="center">
