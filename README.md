@@ -1,13 +1,14 @@
 <!-- GITHUB PROFILE README — Shreya Shukla -->
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ec4899,100:9333ea&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20)
+</div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=780&height=38&lines=Building+intelligent+systems+that+actually+work+%F0%9F%A4%96;Medical-grade+deep+learning+%E2%86%92+production+GenAI+pipelines+%E2%9C%A8;CGPA+9.25+%C2%B7+Manipal+University+Jaipur+%F0%9F%8C%B8;Always+curious%2C+always+shipping+%F0%9F%9A%80)](https://github.com/Shreya-Shukla27)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="70%">
 </div>
 
 <br/>
