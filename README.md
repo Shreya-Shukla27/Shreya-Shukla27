@@ -22,12 +22,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="70%">
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" style="filter: drop-shadow(0 0 10px #00ffff);" />
-  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" 
-       style="position: relative; filter: drop-shadow(0 0 12px cyan);" />
-</p>
-
 <br/>
 
 <!-- Status pill -->
@@ -136,62 +130,95 @@ const shreya: Developer = {
 
 ## ✨ &nbsp; Featured Projects
 
-<div style="display:grid;grid-template-columns:repeat(2, minmax(0,1fr));gap:18px;align-items:start">
+<div style="display:grid;grid-template-columns:repeat(2, minmax(0,1fr));gap:16px;align-items:start">
+
+<!-- Card template styles: dark glass + soft glow to match portfolio -->
 
 <!-- Parkinson's Disease Prediction -->
-<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
-  <small style="color:#8b5cf6;letter-spacing:1px">2025 &nbsp;&nbsp; PROJECT</small>
-  <h3 style="margin:8px 0 6px 0">Parkinson's Disease Prediction</h3>
-  <p style="color:#c9d1d9;margin:6px 0">Ensemble machine learning pipeline for Parkinson's prediction with robust validation and explainable features.</p>
-  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">95%+<br><small style="color:#9ca3af">ACCURACY</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Cross-<br><small style="color:#9ca3af">Validation</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Optimized<br><small style="color:#9ca3af">Tuning</small></span>
+<div style="background:linear-gradient(135deg,#0b0312 0%,#150321 100%);border-radius:18px;padding:22px;border:1px solid rgba(255,255,255,0.06);box-shadow:0 0 0 1px rgba(236,72,153,0.05),0 8px 20px rgba(236,72,153,0.04),0 10px 22px rgba(3,2,15,0.5);">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+    <small style="color:#9a7cff;letter-spacing:1px;font-weight:600">2025</small>
+    <small style="color:#7c6ff2;letter-spacing:1px;font-size:12px;font-weight:700">PROJECT</small>
   </div>
-  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>scikit-learn</code> <code>pandas</code> <code>numpy</code> <code>matplotlib</code> <code>seaborn</code></small></p>
-  <p style="margin:0"><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+  <h3 style="margin:6px 0 8px 0;font-size:23px;line-height:1.04;font-family:Georgia,'Times New Roman',serif;font-weight:600">Parkinson's Disease Prediction</h3>
+  <p style="color:#c9d1d9;margin:0 0 12px 0;line-height:1.5">Ensemble machine learning pipeline for Parkinson's prediction with robust validation and explainable features.</p>
+  <div style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap">
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:116px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">95%+<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">ACCURACY</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:116px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">Cross-<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">VALIDATION</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:116px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">Optimized<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">TUNING</div></div>
+  </div>
+  <div style="margin-bottom:12px">
+    <small style="color:#c9d1d9">Tech: <span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;margin-right:6px;color:#e9dcff">scikit-learn</span><span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;margin-right:6px;color:#e9dcff">pandas</span><span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;color:#e9dcff">numpy</span></small>
+  </div>
+  <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+    <a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#27272a;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">GITHUB</a>
+  </div>
 </div>
 
-<!-- Pastel Diary — Soft Personal Diary -->
-<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
-  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
-  <h3 style="margin:8px 0 6px 0">Pastel Diary — Soft Personal Diary</h3>
-  <p style="color:#c9d1d9;margin:6px 0">A soft, dreamy personal diary with cloud storage, mood tracking, themes, PIN lock, and responsive mobile-first UI.</p>
-  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">5<br><small style="color:#9ca3af">THEMES</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Cloud<br><small style="color:#9ca3af">STORAGE</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Mood<br><small style="color:#9ca3af">GRAPH</small></span>
+<!-- Pastel Diary -->
+<div style="background:linear-gradient(135deg,#0b0312 0%,#150321 100%);border-radius:18px;padding:22px;border:1px solid rgba(255,255,255,0.06);box-shadow:0 0 0 1px rgba(236,72,153,0.05),0 8px 20px rgba(236,72,153,0.04),0 10px 22px rgba(3,2,15,0.5);">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+    <small style="color:#9a7cff;letter-spacing:1px;font-weight:600">2026</small>
+    <small style="color:#7c6ff2;letter-spacing:1px;font-size:12px;font-weight:700">PROJECT</small>
   </div>
-  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>React</code> <code>Express</code> <code>MongoDB</code> <code>Vercel</code></small></p>
-  <p style="margin:0"><a href="https://pastel-diary-roan.vercel.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=vercel&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+  <h3 style="margin:6px 0 8px 0;font-size:23px;line-height:1.04;font-family:Georgia,'Times New Roman',serif;font-weight:600">Pastel Diary — Soft Personal Diary</h3>
+  <p style="color:#c9d1d9;margin:0 0 12px 0;line-height:1.5">A soft, dreamy personal diary with cloud storage, mood tracking, themes, PIN lock, and responsive mobile-first UI.</p>
+  <div style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap">
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">5<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">THEMES</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">Cloud<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">STORAGE</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">Mood<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">GRAPH</div></div>
+  </div>
+  <div style="margin-bottom:12px">
+    <small style="color:#c9d1d9">Tech: <span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;margin-right:6px;color:#e9dcff">React</span><span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;color:#e9dcff">MongoDB</span></small>
+  </div>
+  <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+    <a href="https://pastel-diary-roan.vercel.app/" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#a855f7;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">LIVE</a>
+    <a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#27272a;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">GITHUB</a>
+  </div>
 </div>
 
 <!-- COVID-19 Data Analysis Dashboard -->
-<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
-  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
-  <h3 style="margin:8px 0 6px 0">COVID-19 Data Analysis Dashboard</h3>
-  <p style="color:#c9d1d9;margin:6px 0">Interactive analytics dashboard covering pandemic trends, maps, and heatmaps with deployment-ready Streamlit UX.</p>
-  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">187<br><small style="color:#9ca3af">COUNTRIES</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">8+<br><small style="color:#9ca3af">VISUALIZATIONS</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">Live<br><small style="color:#9ca3af">STREAMLIT</small></span>
+<div style="background:linear-gradient(135deg,#0b0312 0%,#150321 100%);border-radius:18px;padding:22px;border:1px solid rgba(255,255,255,0.06);box-shadow:0 0 0 1px rgba(236,72,153,0.05),0 8px 20px rgba(236,72,153,0.04),0 10px 22px rgba(3,2,15,0.5);">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+    <small style="color:#9a7cff;letter-spacing:1px;font-weight:600">2026</small>
+    <small style="color:#7c6ff2;letter-spacing:1px;font-size:12px;font-weight:700">PROJECT</small>
   </div>
-  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>Python</code> <code>Pandas</code> <code>Plotly</code> <code>Streamlit</code></small></p>
-  <p style="margin:0"><a href="https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=streamlit&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+  <h3 style="margin:6px 0 8px 0;font-size:23px;line-height:1.04;font-family:Georgia,'Times New Roman',serif;font-weight:600">COVID-19 Data Analysis Dashboard</h3>
+  <p style="color:#c9d1d9;margin:0 0 12px 0;line-height:1.5">Interactive analytics dashboard covering pandemic trends, maps, and heatmaps with deployment-ready Streamlit UX.</p>
+  <div style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap">
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">187<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">COUNTRIES</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">8+<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">VISUALIZATIONS</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">Live<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">STREAMLIT</div></div>
+  </div>
+  <div style="margin-bottom:12px">
+    <small style="color:#c9d1d9">Tech: <span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;margin-right:6px;color:#e9dcff">Python</span><span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;color:#e9dcff">Streamlit</span></small>
+  </div>
+  <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+    <a href="https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#a855f7;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">LIVE</a>
+    <a href="https://github.com/Shreya-Shukla27/ML_projects" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#27272a;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">GITHUB</a>
+  </div>
 </div>
 
-<!-- LensAI — AI Image Caption Generator -->
-<div style="background:#0b1220;border:1px solid #21262d;padding:22px;border-radius:12px;">
-  <small style="color:#8b5cf6;letter-spacing:1px">2026 &nbsp;&nbsp; PROJECT</small>
-  <h3 style="margin:8px 0 6px 0">LensAI — AI Image Caption Generator</h3>
-  <p style="color:#c9d1d9;margin:6px 0">Full-stack AI caption generator using BLIP with secure APIs, media storage, user history, and social-ready output modes.</p>
-  <div style="display:flex;gap:10px;margin:10px 0 12px 0;flex-wrap:wrap">
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">5<br><small style="color:#9ca3af">CAPTION MODES</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">JWT<br><small style="color:#9ca3af">AUTH</small></span>
-    <span style="background:transparent;border:1px solid #2d2d35;padding:10px;border-radius:8px;color:#f472b6">MongoDB<br><small style="color:#9ca3af">HISTORY</small></span>
+<!-- LensAI -->
+<div style="background:linear-gradient(135deg,#0b0312 0%,#150321 100%);border-radius:18px;padding:22px;border:1px solid rgba(255,255,255,0.06);box-shadow:0 0 0 1px rgba(236,72,153,0.05),0 8px 20px rgba(236,72,153,0.04),0 10px 22px rgba(3,2,15,0.5);">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+    <small style="color:#9a7cff;letter-spacing:1px;font-weight:600">2026</small>
+    <small style="color:#7c6ff2;letter-spacing:1px;font-size:12px;font-weight:700">PROJECT</small>
   </div>
-  <p style="margin:0 0 10px 0;color:#c9d1d9"><small>Tech: <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code> <code>Hugging Face</code></small></p>
-  <p style="margin:0"><a href="https://lensai-image-caption-generator.vercel.app/" style="text-decoration:none;margin-right:8px"><img src="https://img.shields.io/badge/LIVE-View-6b21a8?style=flat-square&logo=vercel&logoColor=white"></a><a href="https://github.com/Shreya-Shukla27/lensai-image-caption-generator" style="text-decoration:none"><img src="https://img.shields.io/badge/GITHUB-View%20Code-111827?style=flat-square&logo=github&logoColor=white"></a></p>
+  <h3 style="margin:6px 0 8px 0;font-size:23px;line-height:1.04;font-family:Georgia,'Times New Roman',serif;font-weight:600">LensAI — AI Image Caption Generator</h3>
+  <p style="color:#c9d1d9;margin:0 0 12px 0;line-height:1.5">Full-stack AI caption generator using BLIP with secure APIs, media storage, user history, and social-ready output modes.</p>
+  <div style="display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap">
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">5<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">CAPTION MODES</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">JWT<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">AUTH</div></div>
+    <div style="background:rgba(255,255,255,0.03);border-radius:14px;padding:11px 12px;min-width:96px;color:#f472b6;border:1px solid rgba(255,255,255,0.06);box-shadow:inset 0 1px 0 rgba(255,255,255,0.03)">MongoDB<div style="font-size:10px;letter-spacing:1.1px;color:#9ca3af;margin-top:3px">HISTORY</div></div>
+  </div>
+  <div style="margin-bottom:12px">
+    <small style="color:#c9d1d9">Tech: <span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;margin-right:6px;color:#e9dcff">React</span><span style="background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:999px;color:#e9dcff">Node.js</span></small>
+  </div>
+  <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+    <a href="https://lensai-image-caption-generator.vercel.app/" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#a855f7;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">LIVE</a>
+    <a href="https://github.com/Shreya-Shukla27/lensai-image-caption-generator" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;background:#3f3f46;color:#fff;border:1px solid rgba(255,255,255,0.08);border-radius:999px;padding:8px 16px;font-size:12px;font-weight:700;letter-spacing:0.6px">GITHUB</a>
+  </div>
 </div>
 
 </div>
