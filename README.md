@@ -221,7 +221,7 @@ See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#pro
 
 <div align="center">
 
-_Open to AI/ML roles, research collaborations, and GenAI projects._
+_Open to AI/ML roles, data science roles, research collaborations, and GenAI projects._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
