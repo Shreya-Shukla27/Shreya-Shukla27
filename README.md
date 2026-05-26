@@ -119,6 +119,7 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🧠 [Parkinson's Disease Prediction](https://github.com/Shreya-Shukla27/ML_projects)
+
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
 
 **Ensemble machine learning pipeline • robust validation • explainable features**
@@ -134,6 +135,7 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🎨 [Pastel Diary — Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
+
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://pastel-diary-roan.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
 
@@ -152,6 +154,7 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🌊 [COVID-19 Data Analysis Dashboard](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
+
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=streamlit)](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
 
@@ -168,6 +171,7 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🤖 [LensAI — AI Image Caption Generator](https://lensai-image-caption-generator.vercel.app/)
+
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://lensai-image-caption-generator.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/lensai-image-caption-generator)
 
@@ -189,3 +193,48 @@ See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#pro
 ---
 
 ## 🏅 &nbsp; Achievements & Experience
+
+```
+🏢  PwC India Trainee      →  Consulting & AI/ML applied to enterprise challenges
+🎓  CGPA 9.25 / 10         →  Manipal University Jaipur
+🏆  Dean's List            →  Academic excellence recognition
+🤖  Deep Learning          →  Medical-grade production AI systems built & deployed
+📊  Data Science           →  End-to-end pipelines from raw data to insights
+✨  GenAI Pipelines        →  LLM-powered production systems shipped
+🔬  Research               →  Published / submitted work in AI & ML
+```
+
+---
+
+## 🔬 &nbsp; Research & Publications
+
+> Explore my research work at [shreya-shuk.vercel.app/#publications](https://shreya-shuk.vercel.app/#publications)
+
+![](https://img.shields.io/badge/Focus-Medical%20AI-a855f7?style=flat-square&labelColor=2e1065)&ensp;
+![](https://img.shields.io/badge/Focus-Deep%20Learning-db2777?style=flat-square&labelColor=500724)&ensp;
+![](https://img.shields.io/badge/Focus-Computer%20Vision-9333ea?style=flat-square&labelColor=2e1065)&ensp;
+![](https://img.shields.io/badge/Focus-NLP-be185d?style=flat-square&labelColor=500724)
+
+---
+
+## 🤝 &nbsp; Let's Build Something Intelligent Together
+
+<div align="center">
+
+_Open to AI/ML roles, research collaborations, and GenAI projects._
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/shreya-shukla27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-db2777?style=for-the-badge&logo=firefox&logoColor=white&labelColor=500724)](https://shreya-shuk.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065)](mailto:shreyashukla11c@gmail.com)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=80&section=footer)
+
+<div align="center">
+  <sub>crafted with 💜 by <a href="https://shreya-shuk.vercel.app/">Shreya Shukla</a> &nbsp;·&nbsp; <i>"Building intelligent systems that actually work."</i>
+</sub>
+</div>
