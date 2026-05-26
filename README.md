@@ -49,11 +49,11 @@
 const shreya: Developer = {
   name        : "Shreya Shukla",
   location    : "Manipal University Jaipur, India 📍",
-  role        : "AI/ML Engineer & Data Scientist",
+  role        : "AI/ML Engineer, Full Stack Developer, Data Scientist",
   currentWork : "PwC India Trainee",
-  cgpa        : "9.17 / 10 🌟",
+  cgpa        : "9.25 / 10 🌟",
   focus       : ["Medical-Grade Deep Learning", "GenAI Pipelines", "Data Science"],
-  seeking     : "Full-time AI/ML Engineer roles , Data Scientist Roles🎯",
+  seeking     : "Full-time AI/ML Engineer roles , Full Stack Developer roles , Data Scientist Roles🎯",
   funFact     : "I turn poetry into code and data into meaning 💜",
 };
 ```
