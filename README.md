@@ -233,6 +233,8 @@ _Open to AI/ML roles, research collaborations, and GenAI projects._
 
 <!-- FOOTER -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ec4899,100:9333ea&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20)
+
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:9333ea,100:0d0015&height=80&section=footer)
 
 <div align="center">
