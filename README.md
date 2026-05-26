@@ -114,12 +114,75 @@ const shreya: Developer = {
 
 ## ✨ Featured Projects
 
-| **Parkinson's Disease Prediction** | **Pastel Diary — Soft Personal Diary** |
-|---|---|
-| 2025 PROJECT<br><br>Ensemble machine learning pipeline for Parkinson's prediction with robust validation and explainable features.<br><br>95%+ accuracy<br>Cross-Validation<br>Optimized tuning<br><br>Tech: scikit-learn, pandas, numpy<br><br>[GitHub](https://github.com/Shreya-Shukla27/ML_projects) | 2026 PROJECT<br><br>A soft, dreamy personal diary with cloud storage, mood tracking, themes, PIN lock, and responsive mobile-first UI.<br><br>5 themes<br>Cloud storage<br>Mood graph<br><br>Tech: React, MongoDB<br><br>[Live](https://pastel-diary-roan.vercel.app/) · [GitHub](https://github.com/Shreya-Shukla27/ML_projects) |
-| **COVID-19 Data Analysis Dashboard** | **LensAI — AI Image Caption Generator** |
-|---|---|
-| 2026 PROJECT<br><br>Interactive analytics dashboard covering pandemic trends, maps, and heatmaps with deployment-ready Streamlit UX.<br><br>187 countries<br>8+ visualizations<br>Live Streamlit<br><br>Tech: Python, Streamlit<br><br>[Live](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/) · [GitHub](https://github.com/Shreya-Shukla27/ML_projects) | 2026 PROJECT<br><br>Full-stack AI caption generator using BLIP with secure APIs, media storage, user history, and social-ready output modes.<br><br>5 caption modes<br>JWT auth<br>MongoDB history<br><br>Tech: React, Node.js<br><br>[Live](https://lensai-image-caption-generator.vercel.app/) · [GitHub](https://github.com/Shreya-Shukla27/lensai-image-caption-generator) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 [Parkinson's Disease Prediction](https://github.com/Shreya-Shukla27/ML_projects)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+
+**Ensemble machine learning pipeline • robust validation • explainable features**
+
+- 📊 95%+ accuracy on the core model
+- 🔁 Cross-validation and optimization tuned for stability
+- 🧪 Feature analysis for interpretability
+- 🧠 Built with scikit-learn, pandas, and numpy
+
+`scikit-learn` `pandas` `numpy`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🎨 [Pastel Diary — Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://pastel-diary-roan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+
+**Cloud storage • mood tracking • themes • PIN lock**
+
+- 📝 Cloud-backed diary entries with secure access
+- 🌈 Theme switching for a softer personal UI
+- 📈 Mood tracking and visual mood graph
+- 📱 Responsive mobile-first experience
+
+`React` `MongoDB` `Express` `Vercel`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌊 [COVID-19 Data Analysis Dashboard](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
+[![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=streamlit)](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+
+**Interactive analytics • pandemic trends • maps and heatmaps**
+
+- 📊 Real-time trend exploration and dashboarding
+- 🗺️ Maps and heatmaps for regional analysis
+- 📈 Deployment-ready Streamlit UX
+- 🧠 Built with Python, Streamlit, and Plotly-style analytics
+
+`Python` `Streamlit` `Plotly` `Pandas`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🤖 [LensAI — AI Image Caption Generator](https://lensai-image-caption-generator.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://lensai-image-caption-generator.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/lensai-image-caption-generator)
+
+**Full-stack AI caption generator • secure APIs • user history**
+
+- ✨ BLIP-powered caption generation
+- 🔐 JWT auth and secure API flows
+- 🗂️ Media storage with user history tracking
+- 📱 Social-ready output modes
+
+`React` `Node.js` `Express` `MongoDB` `Cloudinary`
+
+    </td>
+  </tr>
+</table>
 
 See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#projects)
 
