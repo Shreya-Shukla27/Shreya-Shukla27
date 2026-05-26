@@ -217,24 +217,6 @@ See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#pro
 
 ---
 
-## 📈 &nbsp; GitHub Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-Shukla27&theme=nord&hide_border=true&bg_color=0d1117&color=88c0d0&line=88c0d0&point=ffffff)](https://github.com/Shreya-Shukla27)
-
----
-
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-Shukla27&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=88c0d0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Shukla27&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&langs_count=8)
-
-</div>
-
----
-
 ## 🤝 &nbsp; Let's Build Something Intelligent Together
 
 <div align="center">
