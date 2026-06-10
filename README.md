@@ -115,25 +115,23 @@ const shreya: Developer = {
 
 ## ✨ Featured Projects
 
-<table>
-<tr>
 <td width="50%" valign="top">
 
-### 🧠 [Parkinson's Disease Prediction](https://github.com/Shreya-Shukla27/ML_projects)
+### 🌌 [Codebase Atlas](https://github.com/Shreya-Shukla27/codebase-atlas)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/codebase-atlas)
+[![Live Demo](https://img.shields.io/badge/Live-Try_It_Now-00C7B7?style=for-the-badge&logo=vercel)](https://atlas-ai-shreya27.vercel.app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+**Full-stack GitHub repo visualizer • interactive galaxy • AI-powered architecture chat**
 
-**Ensemble machine learning pipeline • robust validation • explainable features**
+- 🪐 Files become planets — sized by LOC, glowing by commit frequency
+- 🔗 3 view modes: Commit Heatmap 🔥 | Import Graph | Language Colors
+- 🤖 Built-in AI Chat to query repo architecture in real time
+- 🛠️ Regex-based import parsing across Python, JS/TS, Go, and Rust
 
-- 📊 95%+ accuracy on the core model
-- 🔁 Cross-validation and optimization tuned for stability
-- 🧪 Feature analysis for interpretability
-- 🧠 Built with scikit-learn, pandas, and numpy
-
-`scikit-learn` `pandas` `numpy`
+`Next.js 14` `FastAPI` `React Flow` `D3-Force` `Claude API`
 
 </td>
-<td width="50%" valign="top">
+
 
 ### 🎨 [Pastel Diary — Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
 
