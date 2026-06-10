@@ -115,6 +115,8 @@ const shreya: Developer = {
 
 ## ✨ Featured Projects
 
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌌 [Codebase Atlas](https://github.com/Shreya-Shukla27/codebase-atlas)
@@ -131,12 +133,11 @@ const shreya: Developer = {
 `Next.js 14` `FastAPI` `React Flow` `D3-Force` `Claude API`
 
 </td>
-
+<td width="50%" valign="top">
 
 ### 🎨 [Pastel Diary — Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
-
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://pastel-diary-roan.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/pastel-diary)
 
 **Cloud storage • mood tracking • themes • PIN lock**
 
@@ -153,9 +154,8 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🌊 [COVID-19 Data Analysis Dashboard](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
-
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=streamlit)](https://covid19dashboard-n2imdzfaqzfxu6dwfdcd4x.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/ML_projects)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/covid-dashboard)
 
 **Interactive analytics • pandemic trends • maps and heatmaps**
 
@@ -170,7 +170,6 @@ const shreya: Developer = {
 <td width="50%" valign="top">
 
 ### 🤖 [LensAI — AI Image Caption Generator](https://lensai-image-caption-generator.vercel.app/)
-
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://lensai-image-caption-generator.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/lensai-image-caption-generator)
 
@@ -188,7 +187,6 @@ const shreya: Developer = {
 </table>
 
 See all projects at [shreya-shuk.vercel.app](https://shreya-shuk.vercel.app/#projects)
-
 ---
 
 ## 🏅 &nbsp; Achievements & Experience
