@@ -1,4 +1,4 @@
-<!-- GITHUB PROFILE README — Shreya Shukla -->
+<!-- GITHUB PROFILE README- Shreya Shukla -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ec4899,100:9333ea&height=200&section=header&text=Shreya%20Shukla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
 
@@ -125,7 +125,7 @@ const shreya: Developer = {
 
 **Full-stack GitHub repo visualizer • interactive galaxy • AI-powered architecture chat**
 
-- 🪐 Files become planets — sized by LOC, glowing by commit frequency
+- 🪐 Files become planets- sized by LOC, glowing by commit frequency
 - 🔗 3 view modes: Commit Heatmap 🔥 | Import Graph | Language Colors
 - 🤖 Built-in AI Chat to query repo architecture in real time
 - 🛠️ Regex-based import parsing across Python, JS/TS, Go, and Rust
@@ -135,7 +135,7 @@ const shreya: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Pastel Diary — Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
+### 🎨 [Pastel Diary- Soft Personal Diary](https://pastel-diary-roan.vercel.app/)
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://pastel-diary-roan.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/pastel-diary)
 
@@ -169,7 +169,7 @@ const shreya: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [LensAI — AI Image Caption Generator](https://lensai-image-caption-generator.vercel.app/)
+### 🤖 [LensAI- AI Image Caption Generator](https://lensai-image-caption-generator.vercel.app/)
 [![Live](https://img.shields.io/badge/Live-View_App-7c3aed?style=for-the-badge&logo=vercel)](https://lensai-image-caption-generator.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Shreya-Shukla27/lensai-image-caption-generator)
 
